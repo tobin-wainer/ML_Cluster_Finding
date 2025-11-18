@@ -351,3 +351,37 @@ Epoch 23, Train Loss: 0.5368, Val Loss: 0.5477
 Epoch 24, Train Loss: 0.5373, Val Loss: 0.5463
 Epoch 25, Train Loss: 0.5345, Val Loss: 0.5412
 Saved best model for fold 5
+Epoch 26, Train Loss: 0.5344, Val Loss: 0.5509
+Epoch 27, Train Loss: 0.5310, Val Loss: 0.5416
+Epoch 28, Train Loss: 0.5289, Val Loss: 0.5392
+Saved best model for fold 5
+Epoch 29, Train Loss: 0.5301, Val Loss: 0.5630
+Epoch 30, Train Loss: 0.5291, Val Loss: 0.5419
+Epoch 31, Train Loss: 0.5277, Val Loss: 0.5357
+Saved best model for fold 5
+Epoch 32, Train Loss: 0.5247, Val Loss: 0.5385
+Epoch 33, Train Loss: 0.5235, Val Loss: 0.5406
+Epoch 34, Train Loss: 0.5246, Val Loss: 0.5392
+Epoch 35, Train Loss: 0.5214, Val Loss: 0.5405
+Epoch 36, Train Loss: 0.5245, Val Loss: 0.5444
+Epoch 37, Train Loss: 0.5197, Val Loss: 0.5388
+Epoch 38, Train Loss: 0.5215, Val Loss: 0.5382
+Epoch 39, Train Loss: 0.5176, Val Loss: 0.5364
+Epoch 40, Train Loss: 0.5156, Val Loss: 0.5380
+Epoch 41, Train Loss: 0.5174, Val Loss: 0.5362
+Epoch 42, Train Loss: 0.5152, Val Loss: 0.5365
+Epoch 43, Train Loss: 0.5148, Val Loss: 0.5344
+Saved best model for fold 5
+Epoch 44, Train Loss: 0.5132, Val Loss: 0.5357
+Epoch 45, Train Loss: 0.5107, Val Loss: 0.5437
+Epoch 46, Train Loss: 0.5146, Val Loss: 0.5366
+Epoch 47, Train Loss: 0.5111, Val Loss: 0.5344
+Saved best model for fold 5
+Epoch 48, Train Loss: 0.5088, Val Loss: 0.5340
+Saved best model for fold 5
+Epoch 49, Train Loss: 0.5090, Val Loss: 0.5455
+Epoch 50, Train Loss: 0.5101, Val Loss: 0.5345
+Fold 5 Metrics:
+MSE: 0.0414, MAE: 0.1579, R²: 0.6073
+
+Average best validation loss across all folds: 0.5325
